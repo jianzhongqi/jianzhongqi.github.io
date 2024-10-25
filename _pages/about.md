@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Associate Professor (ARC Future Fellow) <br></br> <a href='http://www.cis.unimelb.edu.au/'>School of Computing and Information Systems</a> <br></br> <a href='http://www.unimelb.edu.au/'>The University of Melbourne</a> 
 
