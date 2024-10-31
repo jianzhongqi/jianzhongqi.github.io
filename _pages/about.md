@@ -21,8 +21,6 @@ social: false # includes social icons at the bottom of the page
 &nbsp;
 &nbsp;
 
-My name is Jianzhong Qi, XXX.
-
 My general research area is data management, and my research concerns fundamental algorithms for spatial, temporal, geo-textual, and textual data, including data indexing, query and update processing, and machine learning.
 
 
