@@ -19,11 +19,12 @@ nav_order: 4
 * 2015, Early Career Researcher (ECR) Grant, Melbourne School of Engineering.
 
 ### Awards:
+* 2024, Best Vision Paper, SIGSPATIAL.
 * 2022, Excellence in Research, School of Computing and Information Systems.
 * 2021, Best Paper Runner-Up, SSDBM.
 * 2021, Best Paper, ALTA.
 * 2017, Best Vision Paper, SIGSPATIAL.
 * 2015, Nominee, MERIT Prize for the Best PhD Thesis in Engineering, Melbourne School of Engineering.
-* 2015, Nominee, [John Makepeace Bennett Best PhD Thesis Award](http://www.core.edu.au/index.php/awards/john-makepeace-bennett-award-australasian-distinguished-do), [Computing Research and Education Association of Australasia (CORE)](http://www.core.edu.au/index.php/).
+* 2015, Nominee, John Makepeace Bennett Best PhD Thesis Award, [Computing Research and Education Association of Australasia (CORE)](https://www.core.edu.au).
 * 2015, Best Poster, ADC.
 * 2012, Runner-up for Best Paper, ADC.
