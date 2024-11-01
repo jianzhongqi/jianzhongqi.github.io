@@ -1,10 +1,12 @@
 ---
 layout: page
 permalink: /students/
-title: Graduated Students
+title: Students
 nav: true
 nav_order: 6
 ---
+
+### Graduated Students:
 
 * Yanchuan Chang (PhD, co-supervised with Prof. [Egemen Tanin](https://findanexpert.unimelb.edu.au/profile/22513-egemen-tanin)), 2024
 * Guanli Liu (PhD, co-supervised with Prof. [Lars Kulik](https://findanexpert.unimelb.edu.au/profile/97563-lars-kulik)), 2023
