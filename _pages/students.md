@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /students/
-title: Students
+title: Graduated Students
 nav: true
 nav_order: 6
 ---
@@ -12,7 +12,7 @@ nav_order: 6
 * Xinting Huang (PhD, co-supervised with Dr. Bayu D. Trisedya), 2022
 * Yunxiang Zhao (PhD, co-supervised with Dr. Bayu D. Trisedya), 2022
 * Yixin Xu (PhD, co-supervised with Prof. [Lars Kulik](https://findanexpert.unimelb.edu.au/profile/97563-lars-kulik)), 2021
-* Aili Shen (PhD, co-supervised with Prof. [Timothy Baldwin](https://people.eng.unimelb.edu.au/tbaldwin/)), 2021
+* Aili Shen (PhD, co-supervised with Prof. [Timothy Baldwin](https://findanexpert.unimelb.edu.au/profile/28799-tim-baldwin)), 2021
 * Yimeng Dai (PhD, co-supervised with Prof. [Rui Zhang](http://www.ruizhang.info/)), 2021
 * Bayu D. Trisedya (PhD, co-supervised with Prof. [Rui Zhang](http://www.ruizhang.info/)), 2021
 * Xiaojie Wang (PhD, co-supervised with Prof. [Rui Zhang](http://www.ruizhang.info/)), 2021
