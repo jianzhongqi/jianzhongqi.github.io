@@ -11,4 +11,3 @@ nav_order: 5
 * Semester 2, 2015 - 2021, [Engineering Computation (COMP20005)](https://handbook.unimelb.edu.au/2020/subjects/comp20005)
 * Semester 1, 2015, [Advanced Database Systems (COMP90050)](https://archive.handbook.unimelb.edu.au/view/2015/comp90050/)
 * Semester 1, 2014 - 2016, [Programming and Software Development (COMP90041)](https://archive.handbook.unimelb.edu.au/view/2016/comp90041/)
-
