@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Continuous Intent Tracking for Virtual Assistance Using Big Contextual Data
-description: ARC Discovery Project 2018 - 2021
+title: AI Optimisation for Corridor Performance
+description: iMOVE CRC Project 2023 - 2025
 img:
 importance: 1
-category: Completed
+category: On-going Projects
 ---
 
-Recently launched Virtual Assistant products such as Amazon Echo and Google Home are commanded by voice and can call apps to do simple tasks like setting timers and playing music. The next-generation virtual assistants will recommend things to be done proactively rather than waiting for commands passively. This project aims to develop algorithms that can predict what a user intends to do and therefore help virtual assistants make recommendations that suit users’ needs accurately. It will benefit many service industry sectors of Australia by enabling virtual assistants to provide services proactively.
+The aim of the project is to leverage AI algorithms and machine learning to optimise the performance of motorways, arterials, and ramps in cities, by predicting future traffic patterns and proactively responding to them. This will help create a more efficient transportation network for the movement of goods and people between urban and suburban areas within a city, for work and leisure. The project will model the road network and seek to optimise travel time proactively tailored to and tested with Melbourne datasets.
