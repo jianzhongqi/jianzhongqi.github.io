@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Next Generation Spatial Data Management for Virtual Spatial Systems
-description: ARC Discovery Project 2023 - 2026
+title: Empowering Next-Generation Spatial Digital Twins with Linked Spatial Data
+description: ARC Discovery Project 2024 - 2027
 img:
 importance: 1
-category: Research
+category: On-going
 ---
 
-Next Generation Spatial Data Management for Virtual Spatial Systems. This project aims to design novel spatial data retrieval methods for efficient and accurate querying of large datasets with location information. Spatial data is being generated at an unprecedented rate due to the prevalence of mobile devices and ubiquitous connectivity. However, harnessing this data is hampered by outdated and inefficient methods. The project will investigate data retrieval methods that self-optimise for high query efficiency and accuracy, by utilising underlying real-world data patterns. It will enable novel applications for virtual spatial systems with large-scale querying needs, such as spatial digital twins and metaverses, benefiting location-based service providers, urban planners, and emergency management agencies.
+This project aims to design novel algorithms for aligning and querying of spatial data from heterogeneous sources. Spatial data is being generated at an unprecedented rate due to the prevalence of mobile devices and ubiquitous connectivity, which enables a novel application, spatial digital twins. However, harnessing this data in spatial digital twins is hampered by the isolation of data from different sources. The project will investigate algorithms to align and query spatial data from heterogeneous sources for high accessibility. It will enable novel applications with advanced spatial analytical querying needs, such as emergency planning, benefiting location-based service providers, urban planners, and emergency management agencies.
 
