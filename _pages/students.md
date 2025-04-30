@@ -8,6 +8,7 @@ nav_order: 6
 
 ### Graduated Students:
 
+* Rongxin Zhu (PhD, jointly supervised with Dr. [Jey Han Lau](https://findanexpert.unimelb.edu.au/profile/385601-jey-han-lau)), 2025
 * Yanchuan Chang (PhD, jointly supervised with Prof. [Egemen Tanin](https://findanexpert.unimelb.edu.au/profile/22513-egemen-tanin)), 2024
 * Guanli Liu (PhD, jointly supervised with Prof. [Lars Kulik](https://findanexpert.unimelb.edu.au/profile/97563-lars-kulik)), 2023
 * Nestor Cabello (PhD, jointly supervised with Prof. [Lars Kulik](https://findanexpert.unimelb.edu.au/profile/97563-lars-kulik)), 2023

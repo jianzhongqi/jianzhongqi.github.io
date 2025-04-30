@@ -28,10 +28,9 @@ My general research area is data management, and my research concerns fundamenta
 
 **Address:** Level 3, Room 3325, Melbourne Connect (Building 290), The University of Melbourne, 700 Swanston Street, Parkville, VIC 3010
 
-`I am recruiting PhD students. To apply, please email me your academic transcripts and CV (including English test results, GPA, and ranking if available).`
+`There is a Postdoctoral Research Fellow position opening in my group. Follow <a href='https://jobs.unimelb.edu.au/caw/en/job/919933?lApplicationSubSourceID='>this link</a> for further details and submitting your application.`
 
-`There is a Postdoctoral Research Fellow position opening in my group. Follow [this link](https://jobs.unimelb.edu.au/caw/en/job/919933?lApplicationSubSourceID=) for further details and submitting your application.`
-
+`I am also recruiting PhD students. To apply, please email me your academic transcripts and CV (including English test results, GPA, and ranking if available).`
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
