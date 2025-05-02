@@ -6,7 +6,7 @@ nav: true
 nav_order: 3
 ---
 
-
+* Area Chair: NeurIPS 2025
 * Doctoral Consortium Chair: ADC 2024
 * Local Chair: ADC 2023
 * Publicity Chair: SIGSPATIAL 2022 and 2023
