@@ -6,6 +6,7 @@ nav: true
 nav_order: 4
 ---
 
+* 2025, Outstanding Reviewer, KDD
 * 2024, Best Vision Paper, SIGSPATIAL
 * 2024, Excellence in Teaching and Learning, School of Computing and Information Systems
 * 2022, Excellence in Research, School of Computing and Information Systems
