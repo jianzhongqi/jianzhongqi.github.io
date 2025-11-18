@@ -32,6 +32,10 @@ My general research area is data management, and my research concerns fundamenta
 
 `I am recruiting PhD students. To apply, please email me your academic transcripts and CV (including English test results, GPA, and ranking if available).`
 
+`I am co-organising the <a href="https://kde-meets-llm.github.io/KDExLLM-ICDE2026">2026 KDExLLM Workshop</a> which will be hosted at ICDE'26 in Montréal, Canada. We invite submissions that explore the synergy, integration, and co-evolution of knowledge bases, database systems, and large language models.`
+
+PhD students. To apply, please email me your academic transcripts and CV (including English test results, GPA, and ranking if available).`
+
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
