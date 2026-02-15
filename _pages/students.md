@@ -9,7 +9,7 @@ nav_order: 6
 ### Graduated Students:
 * Zhuowei Zhao (PhD, jointly supervised with Prof. [Zhifeng Bao](https://eecs.uq.edu.au/profile/12219/zhifeng-bao) and Dr. [Junhao Gan](https://findanexpert.unimelb.edu.au/profile/831627-junhao-gan)), 2026
 * Ghanbari Malkhalifeh (PhD, jointly supervised with Dr. [Saeed Asadi Bagloee](https://findanexpert.unimelb.edu.au/profile/768428-saeed-asadi-bagloee) and Prof. [Majid Sarvi](https://findanexpert.unimelb.edu.au/profile/763544-majid-sarvi)), 2026
-* * Ran Liang (MPhil, jointly supervised with Dr. [Junhao Gan](https://findanexpert.unimelb.edu.au/profile/831627-junhao-gan), Prof. [Majid Sarvi](https://findanexpert.unimelb.edu.au/profile/763544-majid-sarvi), and Prof. [Egemen Tanin](https://findanexpert.unimelb.edu.au/profile/22513-egemen-tanin)), 2026
+* Ran Liang (MPhil, jointly supervised with Dr. [Junhao Gan](https://findanexpert.unimelb.edu.au/profile/831627-junhao-gan), Prof. [Majid Sarvi](https://findanexpert.unimelb.edu.au/profile/763544-majid-sarvi), and Prof. [Egemen Tanin](https://findanexpert.unimelb.edu.au/profile/22513-egemen-tanin)), 2026
 * Xinyu Su (PhD, jointly supervised with Dr. [Feng Liu](https://findanexpert.unimelb.edu.au/profile/958479-feng-liu), Prof. [Majid Sarvi](https://findanexpert.unimelb.edu.au/profile/763544-majid-sarvi), and Prof. [Egemen Tanin](https://findanexpert.unimelb.edu.au/profile/22513-egemen-tanin)), 2025
 * Daniel Shaw (PhD, jointly supervised with A/Prof. [Joe Berry](https://findanexpert.unimelb.edu.au/profile/349798-joe-berry)), 2025
 * Rongxin Zhu (PhD, jointly supervised with A/Prof. [Jey Han Lau](https://findanexpert.unimelb.edu.au/profile/385601-jey-han-lau)), 2025
