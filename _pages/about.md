@@ -32,7 +32,10 @@ My general research area is data management, and my research concerns fundamenta
 
 <!-- `I am recruiting PhD students. To apply, please email me your academic transcripts and CV (including English test results, GPA, and ranking if available).` -->
 
-I am co-organising the [2026 KDExLLM Workshop](https://kde-meets-llm.github.io/KDExLLM-ICDE2026) which will be hosted at [ICDE'26](https://icde2026.github.io) in Montréal, Canada. We invite submissions that explore the synergy, integration, and co-evolution of knowledge bases, database systems, and large language models.
+I am co-organising the [2026 KDExLLM Workshop](https://kde-meets-llm.github.io/KDExLLM-ICDE2026) which will be hosted at [ICDE'26](https://icde2026.github.io) in Montréal, Canada. Come check out the Workshop if you are attending ICDE'26!
+
+
+I am co-organising the [2026 STxFM Workshop](https://st-fm-26.github.io/STxFM-MDM2026/) which will be hosted at [MDM'26](https://mdm-2026.github.io) in Athens, Greece. We invite submissions that explore the synergy, integration, and co-evolution of spatio-temporal data and foundation models.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
