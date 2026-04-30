@@ -7,6 +7,7 @@ nav_order: 6
 ---
 
 ### Graduated Students:
+* Shuzhi Gong (PhD, jointly supervised with Prof. [Richard Sinnott](https://findanexpert.unimelb.edu.au/profile/342078-richard-sinnott) and Dr. [Cecile Paris](https://people.csiro.au/p/c/cecile-paris)), 2026
 * Zhuowei Zhao (PhD, jointly supervised with Prof. [Zhifeng Bao](https://eecs.uq.edu.au/profile/12219/zhifeng-bao) and Dr. [Junhao Gan](https://findanexpert.unimelb.edu.au/profile/831627-junhao-gan)), 2026
 * Ghanbari Malkhalifeh (PhD, jointly supervised with Dr. [Saeed Asadi Bagloee](https://findanexpert.unimelb.edu.au/profile/768428-saeed-asadi-bagloee) and Prof. [Majid Sarvi](https://findanexpert.unimelb.edu.au/profile/763544-majid-sarvi)), 2026
 * Ran Liang (MPhil, jointly supervised with Dr. [Junhao Gan](https://findanexpert.unimelb.edu.au/profile/831627-junhao-gan), Prof. [Majid Sarvi](https://findanexpert.unimelb.edu.au/profile/763544-majid-sarvi), and Prof. [Egemen Tanin](https://findanexpert.unimelb.edu.au/profile/22513-egemen-tanin)), 2026

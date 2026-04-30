@@ -16,11 +16,13 @@ nav_order: 3
 * Research Session Chair: VLDB 2024, ICDE 2023 and 2025, KDD 2021 and 2025 
 
 * Area Chair (SPC): 
-    * 2026: KDD, WWW, ACL Rolling Review
+    * 2027: ICDE 
+    * 2026: KDD, NeurIPS, WWW, CIKM, ACL Rolling Review
     * 2025: NeurIPS, CIKM, ACL Rolling Review
     * 2024: CIKM
 * PC member:
-    * 2026: ICML, ICLR, KDD, PAKDD 
+    * 2027: VLDB
+    * 2026: ICML, ICLR, VLDB, PAKDD, SIGSPATIAL
     * 2025: ICDE, SIGIR, ICML, NeurIPS, ICLR, KDD, ACL, EMNLP, SIGSPATIAL
     * 2024: ICDE, SIGIR, ICML, NeurIPS, ICLR, KDD, WSDM, ACL, EMNLP, WWW, SIGSPATIAL
     * 2023: SIGMOD, SIGIR, ICML, NeurIPS, ICLR, KDD, WSDM, ACL, IJCAI, SIGSPATIAL
@@ -33,7 +35,7 @@ nav_order: 3
 
 * Journal reviewer:
     * ACM Computing Surveys
-    * ACM Transactions on Database Systems
+    * ACM Transactions on Database Systems (Distinguished Reviewers Board)
     * ACM Transactions on Privacy and Security
     * ACM Transactions on Spatial Algorithms and Systems
     * ACM Transactions on Internet Technology
