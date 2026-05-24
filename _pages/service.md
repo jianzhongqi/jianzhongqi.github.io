@@ -6,7 +6,7 @@ nav: true
 nav_order: 3
 ---
 
-* Chair: KDExLLM Workshop 2026 (part of ICDE 2026), ST×FM Workshop 2026 (part of MDM 2026)
+* Chair: [KDExLLM Workshop 2026](https://kde-meets-llm.github.io/KDExLLM-ICDE2026) (part of ICDE 2026)
 * Doctoral Consortium Chair: ADC 2024
 * Local Chair: ADC 2023
 * Publicity Chair: SIGSPATIAL 2022 and 2023
@@ -33,13 +33,17 @@ nav_order: 3
     * 2018: CIKM, SIGSPATIAL
     * 2017: ICDE, CIKM, SIGSPATIAL
 
+* Associate Editor:
+    * World Wide Web Journal
+    * Transactions on Graph Intelligence and Network Applications
+  
 * Journal reviewer:
-    * ACM Computing Surveys
     * ACM Transactions on Database Systems (Distinguished Reviewers Board)
     * ACM Transactions on Privacy and Security
     * ACM Transactions on Spatial Algorithms and Systems
     * ACM Transactions on Internet Technology
-    * ACM Transactions on Intelligent Systems and Technology.
+    * ACM Transactions on Intelligent Systems and Technology
+    * ACM Computing Surveys
     * GeoInformatica
     * IEEE Transactions on Pattern Analysis and Machine Intelligence
     * IEEE Transactions on Image Processing

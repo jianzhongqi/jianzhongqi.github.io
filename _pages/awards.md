@@ -6,6 +6,7 @@ nav: true
 nav_order: 4
 ---
 
+* 2026, Silver Reviewer, ICML
 * 2025, Outstanding Reviewer, KDD
 * 2024, Best Vision Paper, SIGSPATIAL
 * 2024, Excellence in Teaching and Learning, School of Computing and Information Systems
